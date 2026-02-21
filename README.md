@@ -1,4 +1,4 @@
-# Fashion-MNIST Image Classifier with PyTorch MLP
+# Fashion-MNIST Image Classifier with PyTorch MLP Test Accuracy up to 92.02%
 
 A PyTorch-based **Multi-Layer Perceptron (MLP)** that classifies images from the [Fashion-MNIST](https://github.com/zalandoresearch/fashion-mnist) dataset into 10 fashion categories.
 
